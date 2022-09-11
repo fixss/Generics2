@@ -8,6 +8,6 @@ public class Main {
         magicBox1.add(7);
         magicBox1.add(9);
         magicBox1.add(4);
-        System.out.println("Today Your MagicBox Number - " + magicBox1.pick());
+        System.out.println("Today Your MagicBox Number: " + magicBox1.pick());
     }
 }
